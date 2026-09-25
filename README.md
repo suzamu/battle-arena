@@ -1,15 +1,18 @@
-# Suzamu Arena — GTA 5 TikTok Live Gift Mod
+# Battle Arena — GTA 5 TikTok Live Gift Mod
 
-**TikTok Live interaction mod for GTA V (PC):** viewers send a gift during your stream and a ped instantly spawns in the arena carrying the weapon preset you configured. Every kill triggers random cute emotes, colorful kill texts, and randomly colored smoke — plus an MVP board, player name labels, gift tiers, and bomb detection.
+**A Last Man Standing–style battle arena for GTA V, powered by TikTok Live.** Viewers send a gift during your stream and a ped instantly spawns in the arena carrying the weapon preset you configured. Every kill triggers random cute emotes, colorful kill texts, and randomly colored smoke — plus an MVP board, player name labels, gift tiers, and bomb detection.
 
-If you know *Last Man Standing* and other GTA 5 arena scripts, this is the TikTok version of that idea: **interaction instead of a controller** — the audience plays with you through gifts.
+Like *Last Man Standing*? This is the TikTok version of that idea: **interaction instead of a controller** — the audience plays with you through gifts.
+
+**▶ Preview video:** https://youtu.be/WEKFry8HUzA
+**💬 Discord:** https://discord.gg/tpxHnz6Kd6
 
 ## Features
 
 - **TikTok gift webhook** — URL-based, callable from a bot or your phone
 - **Weapon presets per URL** — `/unarmed`, `/mele`, `/pistol`, `/rifle`, `/rpg`, `/shotgun`, `/minigun` (add your own)
 - **Any GTA ped model** — change it in the config
-- **Kill effects** — 8 random kawaii emotes (different every kill), rainbow kill texts, random colored smoke
+- **Kill effects** — 8 random kawaii emotes (different every kill), rainbow kill texts, randomly colored smoke
 - **MVP board** — winner tracking per session
 - **Player labels** — name + health bar above each ped
 - **Automatic gift tiers** — small gifts vs big gifts spawn different tiers
@@ -33,14 +36,14 @@ Test without TikTok: open `http://127.0.0.1:6722/` in a browser, or run the incl
 
 ## Getting the mod
 
-**Full version with installer — link in bio** (TikTok / Discord).
+**Full version with installer — join the Discord:** https://discord.gg/tpxHnz6Kd6
 
 > The repository itself contains documentation only. The mod is distributed as a compiled package to prevent redistribution.
 
 ## Videos
 
-- Live demo: TikTok gift arena — see profile for clips
-- Showcase: coming soon
+- **Preview / showcase:** https://youtu.be/WEKFry8HUzA
+- Live clips: TikTok — see profile
 
 ## Disclaimer
 
@@ -54,4 +57,4 @@ All rights reserved. See [LICENSE](LICENSE).
 
 ---
 
-**Keywords:** gta 5 tiktok live, gta5 tiktok mod, tiktok gift gta 5, gta 5 gift arena, gta v script mod, tiktok live gta 5 interaction, last man standing gta 5 alternative
+**Keywords:** battle arena gta 5, last man standing gta 5, last man standing alternative, gta 5 tiktok live, gta5 tiktok mod, tiktok gift gta 5, gta 5 gift arena, gta v script mod, tiktok live gta 5 interaction
